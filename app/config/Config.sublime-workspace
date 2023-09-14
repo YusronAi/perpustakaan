@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"add",
+				"addNumbers"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"searchButton"
+			],
+			[
+				"ge",
+				"get\tGet Elements"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"cooki",
+				"_COOKIE"
+			],
+			[
+				"C",
+				"_COOKIE"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"pass",
+				"password_verify"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"formel",
+				"formel\tformel"
+			],
+			[
+				"passw",
+				"password_hash"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"stri",
+				"stripslashes"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"ga",
+				"gambar"
+			],
+			[
+				"gam",
+				"gambarLama"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"gamba",
+				"gambarLama"
+			],
+			[
+				"nama",
+				"namaFile"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"eks",
+				"ekstensiFileValid"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"WHERE",
+				"WHERE"
+			],
+			[
+				"au",
+				"autocomplete\tAttr"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"mysqlife",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"prto",
+				"prompt"
+			],
+			[
+				"an",
+				"nomorAngkot"
+			],
+			[
+				"ang",
+				"angkotLembur"
+			],
+			[
+				"no",
+				"nomorAngkot"
+			],
+			[
+				"ju",
+				"jumlahAngkot"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"Font",
+				"font-family\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"tecd",
+				"text-decoration\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"fonsty",
+				"font-style\tproperty"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"initial\ttext-decoration"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backd",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"blo",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bacg",
+				"background-image\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"gend",
+				"gender"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/MVC/public/css/bootstrap.css.map",
+		"/C/xampp/htdocs/MVC/public/css/bootstrap.css",
+		"/C/Users/ASUS/Documents/bootstrap-5.0.1-examples/sticky-footer/index.html",
+		"/C/Users/ASUS/Documents/bootstrap-5.0.1-examples/sticky-footer/sticky-footer.css",
+		"/F/program/DataSiswaPPWB/home/home.html",
+		"/F/program/DataSiswaPPWB/add/daftar.html",
+		"/F/program/farhanppwb/main/index.php",
+		"/F/program/DataSiswaPPWB/badan/badanii.html",
+		"/F/program/farhanppwb/login/register.php",
+		"/C/xampp/htdocs/oop/(4)visibility.php",
+		"/C/xampp/htdocs/pwpb/main/about.php",
+		"/C/xampp/htdocs/pwpb/style/about.css",
+		"/C/xampp/htdocs/pwpb/index.php",
+		"/C/xampp/htdocs/pwpb/main/index.php",
+		"/C/xampp/htdocs/pwpb/login/logout.php",
+		"/C/xampp/htdocs/pwpb/main/update.php",
+		"/C/xampp/htdocs/pwpb/main/add.php",
+		"/C/xampp/htdocs/pwpb/style/style.css",
+		"/C/xampp/htdocs/pwpb/main/delete.php",
+		"/C/xampp/htdocs/pwpb/function/function.php",
+		"/C/xampp/htdocs/pwpb/login/register.php",
+		"/C/xampp/htdocs/pwpb/main/print.php",
+		"/C/xampp/htdocs/pwpb/style/update.css",
+		"/C/xampp/htdocs/pwpb/style/login.css",
+		"/C/xampp/htdocs/pwpb/login/change.php",
+		"/C/Users/ASUS/Downloads/instagram-square-brands.svg",
+		"/C/Users/ASUS/Documents/Sliding-Sign-In-Sign-Up-Form-master/index.html",
+		"/C/Program Files/Sublime Text 3/1. crack an egg and then put into a bowl",
+		"/C/Users/ASUS/Documents/Sliding-Sign-In-Sign-Up-Form-master/style.css",
+		"/C/xampp/htdocs/farhanppwb/main/style.css",
+		"/C/xampp/htdocs/farhanppwb/main/index.php",
+		"/F/farhanppwb/main/add.php",
+		"/F/program/DataSiswaPPWB/tambahkan/tambahkan.html",
+		"/F/program/DataSiswaPPWB/badan/Badan.html",
+		"/F/program/DataSiswaPPWB/add/ADD.html",
+		"/F/farhanppwb/main/index.php",
+		"/F/program/badan2.html",
+		"/F/program/badan2",
+		"/C/xampp/htdocs/pwpb/main/update1.php",
+		"/C/xampp/htdocs/pwpb/main/update2.php",
+		"/C/xampp/htdocs/pwpb/script/ajax/siswa.php",
+		"/C/xampp/htdocs/pwpb/main/update (1).php",
+		"/C/Users/ASUS/Downloads/update (1).php",
+		"/C/Users/ASUS/Documents/pwpb/main/update.php",
+		"/C/xampp/htdocs/pwpb/login/login.php",
+		"/C/xampp/htdocs/farhanppwb/login/login.php",
+		"/C/Users/ASUS/Downloads/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/login/login.php",
+		"/C/xampp/htdocs/pwpb/login/style/style.css",
+		"/C/xampp/htdocs/pwpb/style/style1.css",
+		"/C/Users/ASUS/Documents/bootstrap-5.0.1-examples/sign-in/index.html",
+		"/C/Users/ASUS/Documents/bootstrap-5.0.1-examples/sign-in/signin.css",
+		"/C/xampp/htdocs/pwpb/script/script.js",
+		"/C/Users/ASUS/Documents/Website/Website Sederhana/Arjuna.html",
+		"/C/Users/ASUS/Documents/Website/Lat Web/Latihan Web Dasar/indexz.HTML",
+		"/C/Users/ASUS/Documents/Website/bootstrap/index.html",
+		"/C/xampp/htdocs/oop/(0)construct.php",
+		"/C/xampp/htdocs/oop/(1)object.php",
+		"/C/xampp/htdocs/oop/oop1.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/script/ajax/siswa.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/script/script.js",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/function/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/main/print.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/main/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/vendor/mpdf/mpdf/src/File/StreamWrapperChecker.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan17/vendor/mpdf/mpdf/src/functions-dev.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/function/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/main/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/login/logout.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/login/register.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/script/script.js",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/script/ajax/siswa.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan16/script/ajax/coba.txt",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/function/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/main/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/main/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/main/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/main/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/login/logout.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan15/login/login.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/login/register.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/main/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/function/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/login/login.php",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/formm.sublime-snippet",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/main/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/main/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan14/main/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/register.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan13/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan12/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan12/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan12/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan12/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan12/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan11/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan11/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan11/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan11/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan11/index.php",
+		"/C/xampp/htdocs/phpdasar/pwpb11/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan10/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan10/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan10/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan10/update.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan10/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan9/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan9/add.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan9/delete.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan9/index.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan9/index2.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan5/(2)array.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan5/(1)array.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan4/function.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan7/latihan2.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan7/latihan.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan7/(1)superglobal.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan7/(0)superglobal.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan7/(2)superglobal.php",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/phpp.sublime-snippet",
+		"/C/xampp/htdocs/phpdasar/pertemuan6/(1)array.php",
+		"/C/Lat Web/Website Sederhana/home.html",
+		"/C/xampp/htdocs/phpdasar/pertemuan6/(0)array.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan5/Array.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Config.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
