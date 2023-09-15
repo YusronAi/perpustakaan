@@ -1,7 +1,7 @@
 <?php
 
 class Config{
-    const BASEURL = "http://localhost/perpustakaan/public";
+    const BASEURL = "http://localhost/perpustakaan";
 
     // Database
     const DB_HOST = 'localhost';
